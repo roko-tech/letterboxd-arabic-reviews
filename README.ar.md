@@ -1,6 +1,12 @@
-[English](README.md) · **العربية**
+<div align="center">
 
 # 📚 مراجعات Letterboxd العربية
+
+![Stars](https://img.shields.io/github/stars/roko-tech/letterboxd-arabic-reviews?style=for-the-badge) ![Issues](https://img.shields.io/github/issues/roko-tech/letterboxd-arabic-reviews?style=for-the-badge) ![Forks](https://img.shields.io/github/forks/roko-tech/letterboxd-arabic-reviews?style=for-the-badge) ![License](https://img.shields.io/github/license/roko-tech/letterboxd-arabic-reviews?style=for-the-badge)
+
+[English](README.md) | **العربية**
+
+</div>
 
 يجمع كل المراجعات العربية لأي فيلم على [Letterboxd](https://letterboxd.com) في لوحة واحدة، بدل البحث عنها صفحةً صفحة.
 

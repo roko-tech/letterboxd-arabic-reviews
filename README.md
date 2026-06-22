@@ -1,6 +1,12 @@
-**English** · [العربية](README.ar.md)
+<div align="center">
 
 # 📚 Letterboxd Review Collector
+
+![Stars](https://img.shields.io/github/stars/roko-tech/letterboxd-arabic-reviews?style=for-the-badge) ![Issues](https://img.shields.io/github/issues/roko-tech/letterboxd-arabic-reviews?style=for-the-badge) ![Forks](https://img.shields.io/github/forks/roko-tech/letterboxd-arabic-reviews?style=for-the-badge) ![License](https://img.shields.io/github/license/roko-tech/letterboxd-arabic-reviews?style=for-the-badge)
+
+**English** | [العربية](README.ar.md)
+
+</div>
 
 Collects every review of a film written in the language you choose into one panel, instead of scrolling page after page to find them.
 
