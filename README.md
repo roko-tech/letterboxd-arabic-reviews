@@ -10,11 +10,11 @@
 
 ## ⬇️ التثبيت
 
-ثبّت [Tampermonkey](https://www.tampermonkey.net/)، ثم **[اضغط هنا للتثبيت](https://github.com/roko-tech/letterboxd-arabic-reviews/raw/main/letterboxd-arabic-reviews.user.js)**.
+ثبّت [Violentmonkey](https://violentmonkey.github.io/) (أو [Tampermonkey](https://www.tampermonkey.net/))، ثم **[اضغط هنا للتثبيت](https://github.com/roko-tech/letterboxd-arabic-reviews/raw/main/letterboxd-arabic-reviews.user.js)**.
 
 ## ▶️ الاستخدام
 
-افتح صفحة فيلم، واضغط زر **«اجمع المراجعات العربية»** أسفل يمين الصفحة. لتغيير اللغة، استخدم **«تحديد اللغات»** من قائمة Tampermonkey.
+افتح صفحة فيلم، واضغط زر **«اجمع المراجعات العربية»** أسفل يمين الصفحة. لتغيير اللغة، استخدم **«تحديد اللغات»** من قائمة الإضافة.
 
 ## 📝 ملاحظات
 
